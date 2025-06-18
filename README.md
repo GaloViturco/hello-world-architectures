@@ -1,4 +1,4 @@
-# Hello World Architectures – Multi-Repo Showcase
+# Hello World Architectures
 
 This project demonstrates basic "Hello World" implementations for various software architecture styles. Each one is built independently using different technologies and is hosted in a separate GitHub repository (multi-repo structure).
 
